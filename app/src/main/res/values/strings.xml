@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="enter_text">Enter some text!</string>
+    <string name="submit">Submit</string>
+    <string name="message_feed">Message Feed</string>
+    <string name="crash">Crash!</string>
+    <string name="picture">Get Picture</string>
+    <string name="upload_picture">Upload</string>
+</resources>
